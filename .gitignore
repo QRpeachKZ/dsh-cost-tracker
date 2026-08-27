@@ -1,0 +1,5 @@
+# Local price config (created at runtime in $HOME, but ignore if it ever lands here)
+.dsh-cost-prices.json
+
+# Node
+node_modules/
